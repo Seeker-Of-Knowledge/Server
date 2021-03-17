@@ -1,0 +1,9 @@
+{
+    "name": "OpenSend Server",
+    "author": "OpenSend Technologies",
+    "copyright": "OpenSend Technologies, 2021. Some rights reserved.",
+    "user_agent": "OpenSend-Server/beta-1.0.0 (THIRD-PARTY)  (+https://github.com/OpenSend-Technologies/Server)",
+    "version": "beta-1.0.0",
+    "version_count": 1,
+    "protocol": 1
+}
