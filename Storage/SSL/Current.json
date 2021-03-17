@@ -1,0 +1,8 @@
+{
+    "cert": "cert.pem",
+    "private": "private.pem",
+    "ca": "Let's Encrypt",
+    "ca_short": "LE",
+    "generated": 8467486,
+    "expires": 7574846
+}

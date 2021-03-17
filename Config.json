@@ -1,0 +1,12 @@
+{
+    "email": "change-this@opensend.net",
+    "doamin": "example.us.server.opensend.net",
+    "authenticate": true,
+    "authenticate_users": true,
+    "minTLSVersion": "TLSv1.2",
+    "custom_ssl": {
+        "use_custom_ssl": false,
+        "cert": "/path/to/certificate",
+        "private": "/path/to/key"
+    }
+}
